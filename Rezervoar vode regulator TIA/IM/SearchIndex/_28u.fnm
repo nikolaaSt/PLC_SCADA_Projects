@@ -1,0 +1,10 @@
+þÿÿÿ###id###VisulizationRootBrowsableId###TargetIdNameText.0Text.1
+AlarmClass-###SearchableNonTechnicalFieldNamesOfDocument###ParentIds###ImmediateParentId###ReferenceFieldIdsDisplayName###SearchFilterIdsTitleLanguageVersion###UpdatableParentIdInterfaceMember_NameInterfaceMember_DatatypeInterfaceMember_ValueInterfaceMember_CommentSCL CodeConstant nameEvent classNetwork titleLADFBD CodeCommentDatatypeAddressValue###ReconstitutionDataIDAssociatedCultureFieldIdAssociatedProjectVersion!AssociatedIndexDataVersionFieldId,AssociatedTechnicalFieldNamesHashCodeFieldId-AssociatedTechnicalFieldContentVersionFieldIdIndexAtomStoreText.2AuthorFamilyUser-defined IDInstance DBNameInFunctionalViewNameInDBFullNameInDBAcknowledgementModelIdAcknowledgedText
+ComingText	GoingTextAcknowledgementGroupTextInvalidAttempts	ValidDaysWarningDaysGenerationsMinNumPsswd	CycleUnit	CycleTimeNumber	ShortName
+LogoutTime	BackColor	GridColorAlarmLowerLimitColorAlarmUpperLimitColorBackFillStyleBarOrientationBorderBackColorBorderColor	EdgeStyleFont	ForeColorLayer
+ScaleColorScalePositionSegmentColoringUnitAdaptPicture
+AutoSizingPictureCommonAlarmClassStationNamePartnerNameNodeNameTagAddressPanelInfoAddressAccessModeAcquisitionTriggerModeAcquisitionCycleDataTypeCoding
+ConnectionPlcNameControllerTagLimitHighConstantLimitLowConstant	JobNumber
+StartValuePropertyNameTagValueForPropertyTagPageAboveUpperLimitColorBelowLowerLimitColorEvenRowBackColorHorizontalAlignmentModeSelectBackColorSelectForeColorTextOffTextOnTextOrientationVerticalAlignment
+DataFormatFormatPatternFlashingTextFirstGradientColor
+FocusColorHorizontalPictureAlignmentMiddleGradientColorPictureAutoSizingSecondGradientColorVerticalPictureAlignment	FunctionsUITypeEditorBitPositionUITypeEditorTagExpressionRangeFromToUITypeEditorStartvalueUITypeEditorEndvalue
